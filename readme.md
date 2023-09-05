@@ -190,7 +190,9 @@ This project was referenced and modified some code from existing project, we her
       eprint={2308.07641},
       archivePrefix={arXiv},
       primaryClass={cs.LG}
-}```
+}
+```
+
 ## Todo
 
 - [ ] custom CUDA kernel for 2-bit storage

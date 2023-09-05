@@ -1,0 +1,13 @@
+*.toc
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.nav
+*.snm
+*.synctex.*
+.DS_Store
+.texpadtmp
+*.fdb_latexmk
+*.fls
